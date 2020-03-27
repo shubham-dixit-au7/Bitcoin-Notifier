@@ -53,7 +53,7 @@ def main():
             # Reset the history
             bitcoin_history = []
         
-        time.sleep(1 * 5)  # Sleep for 5 minutes (for testing purposes you can set it to a lower number)
+        time.sleep(1 * 60 * 60)  # Sleep for 1 hour (for testing purposes you can set it to a lower number)
         
 
 if __name__ == '__main__':
