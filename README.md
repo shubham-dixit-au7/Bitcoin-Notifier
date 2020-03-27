@@ -13,15 +13,17 @@ Telegram is a cloud-based instant messaging and voice over IP service. Telegram 
 
 • This Project will send notification of bitcoin latest price for every one hour. 
 
-• The notifications will be sent to telegram channel “AttainU Bitcoin IFTTT”. 
+• The notifications will be sent to telegram channel “Bitcoin Notifier” , email notification and a text message. 
 
 • The channel is global and anyone can access the channel and get regular updates of bitcoin prices.
 
 <h3> Features: </h3> 
 
-• Anyone with the link can join and chat along the channel.
+• Notifications are sent when price is increased from threshold value on your phone and email is sent to the linked email id.
 
-• This Project is alive forever.
+• General notifications of price updates occur on Telegram channel "Bicoin Notifier". Anyone with the link can join and chat along the     channel.
+
+• General notifications are also sent as a text message to numbers linked with the service.
 
 <h3> Working Procedure: </h3>
 
