@@ -37,7 +37,7 @@ Telegram is a cloud-based instant messaging and voice over IP service. Telegram 
 
  pip install requests==2.18.4
 
- source virtualenv_name/bin/activate.bat
+ C:\Users\SHIELD\Desktop\bitcoin_notifier\Scripts\activate.bat
 
 • The Project is divided into four functions/modules: 
 
