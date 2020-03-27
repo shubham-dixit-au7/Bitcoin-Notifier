@@ -59,12 +59,12 @@ Telegram is a cloud-based instant messaging and voice over IP service. Telegram 
 
 
 
-Credentials-
+<h3> Credentials: </h3>
 
-Webhooks Key- tsFD78FzQe6DYQNPMKrB4
+ Webhooks Key- tsFD78FzQe6DYQNPMKrB4
 
-Telegram Channel Link- (@bitcoin_notifier)https://t.me/bitcoin_notifier
+ Telegram Channel Link- (@bitcoin_notifier)https://t.me/bitcoin_notifier
 
-Email linked to the service- shbmdxt@gmail.com
+ Email linked to the service- shbmdxt@gmail.com
 
-Phone Number linked to the service- +917905655943
+ Phone Number linked to the service- +917905655943
