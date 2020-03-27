@@ -51,6 +51,20 @@ Telegram is a cloud-based instant messaging and voice over IP service. Telegram 
 
 • IFTTT Applets: 
 
- Webhooks and Telegram services are used here. 
+ Webhooks, Telegram, Notifications, Email and Android SMS services are used here. 
 
- When an event is occurred in the webhooks it will send the event value to telegram.
+ When an event 'bitcoin_price_emergency is occurred in the webhooks it will send the event value to Notification in your phone and an email is sent to the email listed in the service.
+
+ When and event 'bitcoin_price_update is occurred in the webhooks it will send the event value to the Telegram Channel 'Bitcoin Notifier' and text message to the phone number linked to the service.
+
+
+
+Credentials-
+
+Webhooks Key- tsFD78FzQe6DYQNPMKrB4
+
+Telegram Channel Link- (@bitcoin_notifier)https://t.me/bitcoin_notifier
+
+Email linked to the service- shbmdxt@gmail.com
+
+Phone Number linked to the service- +917905655943
